@@ -1,0 +1,6 @@
+1)Install Java 17
+2)Install Maven and set it in environment variable
+3)after install run these 2 commands
+          mvn clean install
+          mvn spring-boot:run
+
